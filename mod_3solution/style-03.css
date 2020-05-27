@@ -1,0 +1,93 @@
+body {
+    background-color: lightblue;
+}
+
+h2 {
+    margin-top: 10px;
+    font-size: 2em;
+    font-family: sans-serif;  /*for OUR MENU*/
+    font-weight: bold;
+    color: black;
+    text-transform: uppercase;
+    }  
+
+
+/*....................header................*/
+#header-nav{
+    background-color: orange;
+    border-radius: 0;
+    border: 0;
+}
+
+ h1 {
+    text-align: left;
+    font-family: 'Lora', serif;
+    font-size: 2.5em;
+    margin: 0;
+    padding:10px 0 0 0px;
+    font-weight: bold;
+    text-shadow: 1px 1px 1px black;
+    padding: 0;
+    padding-bottom: 10px;  /* for types of personality */
+    text-transform: uppercase;
+    color: navy blue;
+}
+
+/*.navbar-toggle {
+background-color: #61122f; /* esse pure button ka color change ho rha tha*/
+
+.navbar-header button.navbar-toggle , .navbar-header .icon-bar {
+    border: 1px solid #61122f;
+}
+
+#nav-list {
+    background-color: yellow;
+    border: 1px solid black;
+    margin-top: 10px;
+}
+#nav-list li{
+    border: 1px solid white;/*dropdown menu vo 3no chizo k bich border dene k liye*/
+}
+
+#nav-list a {
+    color: darkgreen;/*dropdown wale items ko color dene k liye*/
+    text-align:center;
+    font-weight:bold;
+}
+
+#nav-list a:hover{
+    font-size: 1.8em;
+}
+
+/*.navbar-header button.navbar-toggle {
+    clear: both;
+}*/
+
+ h3 { /*for heading to be in centre in bg black and highlighted*/
+    text-align: center; 
+    text-transform: uppercase;
+    color: white;
+    font-size: 1.2em;
+    background-color: black;
+    opacity: .7;
+    font-weight: bold;
+ }
+
+ section {
+    font-family: calvin;
+    background-color: lightyellow;
+    text-align: justify;
+    padding: 10px;
+    padding-top: 0;
+    margin-bottom: : 15px;
+    border: 2px solid black;
+    font-size:1em;
+}
+
+.row section {/* 3no boxes k bich margin di h taki vo joint na ho dur dur rhe*/
+    margin-bottom: 15px;
+}
+/*.text-center{
+    font-weight: bold;
+}*/
+
